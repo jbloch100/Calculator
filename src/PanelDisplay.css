@@ -1,0 +1,16 @@
+.PanelDisplay{
+    position: relative;
+    width: 95%;
+    height: 150px;
+    background-color: white;
+    margin: 15px auto;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.PanelDisplay h1{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-right: 10px;
+}

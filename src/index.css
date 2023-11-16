@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+
+  background: linear-gradient(blueviolet, yellow);
+}
+
+.header
+{
+  text-align: center;
+  font-size: 100px;
+  background: linear-gradient(red, green);
+  color: blue;
+}
+
+
+
